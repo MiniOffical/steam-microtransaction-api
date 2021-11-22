@@ -6,7 +6,7 @@ export default {
    *  To generate the proper key, you need to implement the WebAPIKey from
    *  Steam Developer Page, User&Permissions -> Manage Group -> (Your App's name)
    */
-  webkey: process.env.STEAM_WEBKEY,
+  webkey: '4CE5CFA2DB0E7F043FAEA08A1624F4EF',
   /**
    *  Define the list of products to be used by the transaction system to prevent users to send lower or higher price
    *  for these products.
